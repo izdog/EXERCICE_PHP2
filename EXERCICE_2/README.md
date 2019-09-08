@@ -34,17 +34,17 @@ Créer une page **inscription.php** qui permettra à un utilisateur de s'inscrir
 Si les champs sont bien remplies, on insère les données dans la base de données et on redigire l'utilisateur vers sa page de profil.
 
 *login.php*
-<p>
+<p align="center">
     <img width="300" src="assets/login.png">
 </p>
 
 *inscription.php*
-<p>
-    <img width="300" src=="assets/inscription.png">
+<p align="center">
+    <img width="300" src="assets/inscription.png">
 </p>
 
 *profil.php*
-<p>
+<p align="center">
     <img width="300" src="assets/profil.png">
 </p>
 
